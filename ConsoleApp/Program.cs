@@ -19,7 +19,7 @@ namespace ConsoleApp
 
             var pear = new Pear("Pera", FruitColor.Green);
 
-            var anguria = new Watermelon("Anguria", FruitType.Fresh, FruitColor.Green);
+            var anguria = new Watermelon("Anguria", FruitColor.Green);
         }
     }
 }
