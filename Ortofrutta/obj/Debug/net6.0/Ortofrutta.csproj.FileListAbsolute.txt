@@ -1,0 +1,12 @@
+C:\Users\Commit\Desktop\Ortofrutta\Ortofrutta\obj\Debug\net6.0\Ortofrutta.csproj.AssemblyReference.cache
+C:\Users\Commit\Desktop\Ortofrutta\Ortofrutta\obj\Debug\net6.0\Ortofrutta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Commit\Desktop\Ortofrutta\Ortofrutta\obj\Debug\net6.0\Ortofrutta.AssemblyInfoInputs.cache
+C:\Users\Commit\Desktop\Ortofrutta\Ortofrutta\obj\Debug\net6.0\Ortofrutta.AssemblyInfo.cs
+C:\Users\Commit\Desktop\Ortofrutta\Ortofrutta\obj\Debug\net6.0\Ortofrutta.csproj.CoreCompileInputs.cache
+C:\Users\Commit\Desktop\Ortofrutta\Ortofrutta\bin\Debug\net6.0\Ortofrutta.deps.json
+C:\Users\Commit\Desktop\Ortofrutta\Ortofrutta\bin\Debug\net6.0\Ortofrutta.dll
+C:\Users\Commit\Desktop\Ortofrutta\Ortofrutta\bin\Debug\net6.0\Ortofrutta.pdb
+C:\Users\Commit\Desktop\Ortofrutta\Ortofrutta\obj\Debug\net6.0\Ortofrutta.dll
+C:\Users\Commit\Desktop\Ortofrutta\Ortofrutta\obj\Debug\net6.0\refint\Ortofrutta.dll
+C:\Users\Commit\Desktop\Ortofrutta\Ortofrutta\obj\Debug\net6.0\Ortofrutta.pdb
+C:\Users\Commit\Desktop\Ortofrutta\Ortofrutta\obj\Debug\net6.0\ref\Ortofrutta.dll
